@@ -1,0 +1,10 @@
+package com.ss.reggie.mapper;
+
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.ss.reggie.entity.DishFlavor;
+import org.apache.ibatis.annotations.Mapper;
+
+@Mapper
+public interface DishFlavorMapper extends BaseMapper<DishFlavor> {
+
+}
