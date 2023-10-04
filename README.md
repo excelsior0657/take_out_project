@@ -3,6 +3,7 @@
 
 技术架构：
 
+
 1.用户层：HTML5、VUE.js、ElementUI、微信小程序
 
 2. 网关层：Nginx
